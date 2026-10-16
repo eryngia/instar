@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fb8966b18c6f03f4091856412e3c9340
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyFlashMaterial: {fileID: 2100000, guid: ad6fa57a8b9babd489ff4f787f6bb5d1, type: 2}
+  - enemyDiedParticles: {fileID: 2838590265810140237, guid: a66aa4804cedbf44282f5bd3e8405cb5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

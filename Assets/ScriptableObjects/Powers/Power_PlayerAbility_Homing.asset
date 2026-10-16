@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3e4852dd38965e45a1c5d9f1eaf86a5, type: 3}
+  m_Name: Power_PlayerAbility_Homing
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 4051935007624064007, guid: 198a9a37c6d8dce4195e91f3d8417da8, type: 3}
+  description: homing special
+  rangeMultiplier: 2
+  speedMultiplier: 0.5
+  homingStrengthIncrease: 50
